@@ -64,7 +64,7 @@ a {
 ul {
   display: flex;
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 40px;
+  padding: 40px;
   gap: 16px
 }
